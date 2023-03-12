@@ -1,1 +1,5 @@
-# QR_code
+# QR code
+
+### HTML
+### CSS
+### JS
